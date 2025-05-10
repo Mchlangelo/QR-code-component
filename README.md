@@ -23,8 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-agj.pages.dev)
 
 ## My process
 
@@ -43,21 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I reinforced my knowledge with CSS flex, item centralization, justification, types of styles, and responsiveness.
 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-
-
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Mchlangelo](https://www.frontendmentor.io/profile/Mchlangelo)
 
